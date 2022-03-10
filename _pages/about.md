@@ -13,11 +13,16 @@ I am currently a Computer Science PhD student at UC Santa Cruz working under Nar
 Publications
 ======
 <ul>
-  <li><strong> WaveFusion Squeeze-and-Excitation: Towards an Accurate and Explainable Deep Learning Framework in Neuroscience</strong>. Michael Briden, Narges Norouzi, [paper](https://ieeexplore.ieee.org/abstract/document/9630605?casa_token=XV1dpw4R5GwAAAAA:wyEdn4GTqTsS6wgMJYc5zV_Dte57zMGmSVbXKw41zqzYF7rR2fPgnRWJFCks0Gxy5oPpy9vgiQ)</li>
+  <li><strong> WaveFusion Squeeze-and-Excitation: Towards an Accurate and Explainable Deep Learning Framework in Neuroscience</strong>. Michael Briden, Narges Norouzi,  <a href="https://ieeexplore.ieee.org/document/9630605">[paper]</a> </li>
 </ul>
+
 
 Workshops/Conferences/Talks
 ======
+<ul>
+  <li>23rd International Conference on Information Fusion. <em> Deep Feature Learning to Model Brain Network Activities</em>. Narges Norouzi, Michael Covarrubias , Michael Briden, Rafael Espericueta  </li>
+</ul>
+
 
 
 Projects
@@ -27,5 +32,7 @@ Projects
 Teaching
 ======
 <ul>
-Teaching Assistant for CSE 101: Intro to Data Structures and Algorithms, 2020, UC Santa Cruz
+<li>Teaching Assistant for CSE 140: Artificial Intelligence, UC Santa Cruz</li>
+<li>Teaching Assistant for CSE 144: Applied Machine Learning, UC Santa Cruz</li>
+<li>Teaching Assistant for CSE 20: Beginning Programming in Python, UC Santa Cruz</li>
 </ul>
