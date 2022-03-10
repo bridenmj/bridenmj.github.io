@@ -37,3 +37,9 @@ Teaching
 <li>Teaching Assistant for CSE 144: Applied Machine Learning, UC Santa Cruz</li>
 <li>Teaching Assistant for CSE 20: Beginning Programming in Python, UC Santa Cruz</li>
 </ul>
+
+Resume
+------
+<ul>
+<li><a class="social-links" style="text-decoration:none" href=Mbriden_Resume.pdf>Resume</a></li>
+</ul>
