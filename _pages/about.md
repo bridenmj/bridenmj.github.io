@@ -41,5 +41,5 @@ Teaching
 Resume
 ------
 <ul>
-<li><a class="social-links" style="text-decoration:none" href=Mbriden_Resume.pdf>Resume</a></li>
+<li><a href=Mbriden_Resume.pdf>Resume</a></li>
 </ul>
