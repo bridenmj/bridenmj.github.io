@@ -41,5 +41,5 @@ Teaching
 Resume
 ------
 <ul>
-<li><a href=Mbriden_Resume.pdf>Resume</a></li>
+<li><a href="username.github.io/_pages/Mbriden_Resume.pdf" target="_blank">Resume</a></li>
 </ul>
