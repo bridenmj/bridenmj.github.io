@@ -20,7 +20,7 @@ Publications
 ------
 
 <ul>
-  <li><strong> WaveFusion Squeeze-and-Excitation: Towards an Accurate and Explainable Deep Learning Framework in Neuroscience</strong>. Michael Briden, Narges Norouzi.  <a href="https://ieeexplore.ieee.org/document/9630605">[paper]</a> </li>
+  <li><strong> WaveFusion Squeeze-and-Excitation: Towards an Accurate and Explainable Deep Learning Framework in Neuroscience</strong>. Michael Briden, Narges Norouzi.  <a href="https://ieeexplore.ieee.org/document/9630605">[paper]</a><a href="https://github.com/bridenmj/WaveFusion">[code]</a></li>
 </ul>
 
 
