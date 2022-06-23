@@ -28,7 +28,7 @@ Workshops/Conferences/Talks
 ------
 
 <ul>
-  <li><strong> Towards Metacognition: Subject-Aware Contrastive Deep Fusion Learning for EEG Analysis</strong>. Michael Briden, Narges Norouzi, Neurovision Workshop at CVPR 2022. <a href="https://drive.google.com/file/d/1Nea9FWOAzDYEan3KPcKEUsy5JReY8eeR/view">[paper]</a> </li> <a href="https://github.com/bridenmj/Metacognition">[code]</a> </li>
+  <li><strong> Towards Metacognition: Subject-Aware Contrastive Deep Fusion Learning for EEG Analysis</strong>. Michael Briden, Narges Norouzi, Neurovision Workshop at CVPR 2022. <a href="https://drive.google.com/file/d/1Nea9FWOAzDYEan3KPcKEUsy5JReY8eeR/view">[paper]</a> </li> <a href="https://github.com/bridenmj/Metacognition">[code]</a> 
   <li><strong> Deep Feature Learning to Model Brain Network Activities</strong>. Narges Norouzi, Michael Covarrubias , Michael Briden, Rafael Espericueta, 23rd International Conference on Information Fusion. </li>
 </ul>
 
