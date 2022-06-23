@@ -10,12 +10,15 @@ redirect_from:
 ---
 
 I am currently a Computer Science PhD student at UC Santa Cruz working under Narges Norouzi in the Applied Machine Learning Lab. I am currently researching self supervised deep learning methods for biomedical data, image recognition, and classification. Moreover, I enjoy exploring the theoretical aspects of artificial intelligence, machine learning, and data science.
+
 In Submission
 ------
+
   <li><strong> Subject-Aware Explainable Contrastive Deep Fusion Learning for Anxiety Level Analysis</strong>. Michael Briden, Narges Norouzi.
 
 Publications
 ------
+
 <ul>
   <li><strong> WaveFusion Squeeze-and-Excitation: Towards an Accurate and Explainable Deep Learning Framework in Neuroscience</strong>. Michael Briden, Narges Norouzi.  <a href="https://ieeexplore.ieee.org/document/9630605">[paper]</a> </li>
 </ul>
@@ -23,16 +26,11 @@ Publications
 
 Workshops/Conferences/Talks
 ------
+
 <ul>
   <li><strong> Towards Metacognition: Subject-Aware Contrastive Deep Fusion Learning for EEG Analysis</strong>. Michael Briden, Narges Norouzi, Neurovision Workshop at CVPR 2022. <a href="https://drive.google.com/file/d/1Nea9FWOAzDYEan3KPcKEUsy5JReY8eeR/view">[paper]</a> </li> <a href="https://github.com/bridenmj/Metacognition">[code]</a> </li>
   <li><strong> Deep Feature Learning to Model Brain Network Activities</strong>. Narges Norouzi, Michael Covarrubias , Michael Briden, Rafael Espericueta, 23rd International Conference on Information Fusion. </li>
 </ul>
-
-
-
-Projects
-------
-
 
 Teaching
 ------
