@@ -37,15 +37,14 @@ Other Projects
 ------
 <ul>
   <li><strong> Topological Data Analysis in Information Space for Confidence Analysis with Electroencephalogram Data & Horizontal Visibility <a href="https://drive.google.com/file/d/1TAN4PMkaPSTuHHLptumIPsRISFc-1Pan/view?usp=sharing">[paper]</a></li>
+
   <li><strong> Classification of Electroencephalogram Data using
-SpectroImaging and Deep Neural Networks <a href="https://drive.google.com/file/d/1TAN4PMkaPSTuHHLptumIPsRISFc-1Pan/view?usp=sharing">[paper]</a></li>
-
-
-
+SpectroImaging and Deep Neural Networks.</a></li>
 </ul>
 
 Teaching
 ------
+
 <ul>
 <li>Teaching Assistant for CSE 140: Artificial Intelligence, UC Santa Cruz</li>
 <li>Teaching Assistant for CSE 144: Applied Machine Learning, UC Santa Cruz</li>
@@ -54,6 +53,7 @@ Teaching
 
 Resume
 ------
+
 <ul>
 <li><a href="https://bridenmj.github.io/_pages/Mbriden_Resume.pdf" target="_blank">Resume</a></li>
 </ul>
