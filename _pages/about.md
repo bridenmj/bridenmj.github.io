@@ -34,12 +34,13 @@ Workshops/Conferences/Talks
 </ul>
 
 Other Projects
+
 ------
 <ul>
-  <li><strong> Topological Data Analysis in Information Space for Confidence Analysis with Electroencephalogram Data & Horizontal Visibility. <a href="https://drive.google.com/file/d/1TAN4PMkaPSTuHHLptumIPsRISFc-1Pan/view?usp=sharing">[paper]</a></li>
+  <li><strong> Topological Data Analysis in Information Space for Confidence Analysis with Electroencephalogram Data & Horizontal Visibility</strong>. <a href="https://drive.google.com/file/d/1TAN4PMkaPSTuHHLptumIPsRISFc-1Pan/view?usp=sharing">[paper]</a></li>
 
   <li><strong> Classification of Electroencephalogram Data using
-SpectroImaging and Deep Neural Networks.</li>
+SpectroImaging and Deep Neural Networks</strong>.</li>
 </ul>
 
 Teaching
