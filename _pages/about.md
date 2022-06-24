@@ -13,9 +13,9 @@ I am currently a Computer Science PhD student at UC Santa Cruz working under Nar
 
 In Submission
 ------
-
+<ul>
   <li><strong> Subject-Aware Explainable Contrastive Deep Fusion Learning for Anxiety Level Analysis</strong>. Michael Briden, Narges Norouzi.</li>
-
+</ul>
 Publications
 ------
 
@@ -34,7 +34,6 @@ Workshops/Conferences/Talks
 </ul>
 
 Other Projects
-
 ------
 <ul>
   <li><strong> Topological Data Analysis in Information Space for Confidence Analysis with Electroencephalogram Data & Horizontal Visibility</strong>. <a href="https://drive.google.com/file/d/1TAN4PMkaPSTuHHLptumIPsRISFc-1Pan/view?usp=sharing">[paper]</a></li>
