@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Briden"
-  #avatar           : "profile.jpg"
+  avatar           : ""
   bio              : "PhD Student, UC Santa Cruz"
   location         : "Santa Cruz, CA"
   employer         :
