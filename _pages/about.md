@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science PhD student at UC Santa Cruz working under Narges Norouzi. I am researching self-supervised deep learning methods for biomedical data, image recognition, and classification. Moreover, I enjoy exploring the theoretical aspects of artificial intelligence, machine learning, and data science. I hold a Bachelor's degree in Pure Mathematics from Pacific Lutheran University, located in beautiful Washington state.
+I am a Computer Science PhD student at UC Santa Cruz working under Narges Norouzi. I am researching self-supervised deep learning methods for biomedical data, including image recognition and signal processing. Moreover, I enjoy exploring the theoretical aspects of artificial intelligence, machine learning, and data science. I hold a Bachelor's degree in Pure Mathematics from Pacific Lutheran University, located in beautiful Washington state.
 
 In Submission
 ------
