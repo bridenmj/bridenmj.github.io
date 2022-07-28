@@ -14,8 +14,8 @@ I am currently a Computer Science PhD student at UC Santa Cruz working under Nar
 In Submission
 ------
 <ul>
-  <li><strong> Subject-Aware Explainable Contrastive Deep Fusion Learning for Anxiety Level Analysis</strong>. Michael Briden, Narges Norouzi.</li><em> accepted </em>
-  <li><strong> Fine-grained Cross-Layer Attention Framework for Wound Stage Classification</strong>. Keval Nagda, Michael Briden, Narges Norouzi.</li><em> accepted </em>
+  <li><strong> Subject-Aware Explainable Contrastive Deep Fusion Learning for Anxiety Level Analysis</strong>. Michael Briden, Narges Norouzi.<em> accepted </em> </li>
+  <li><strong> Fine-grained Cross-Layer Attention Framework for Wound Stage Classification</strong>. Keval Nagda, Michael Briden, Narges Norouzi.<em> accepted </em> </li>
   <li><strong> Few-shot Classification of Healer vs. Non-Healer Wound Images</strong>.  Shubham Mahajan,
   Anirudh Potlapally, Michael Briden, Narges Norouzi.</li>
   <li><strong> Tell Me If It Heals: Future Wound Stage Prediction Through Latent Space Extrapol-
