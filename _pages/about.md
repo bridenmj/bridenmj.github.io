@@ -44,8 +44,7 @@ Workshops/Conferences/Talks
 Research Projects
 ------
 <ul>
-  <li><strong> Bioelectronic Intelligent Control of Wound Regeneration</strong>. Graduate Student Researcher.
-
+  <li><strong> Bioelectronic Intelligent Control of Wound Regeneration</strong>. Graduate Student Researcher.</li>
 </ul>
 
 Other Projects
