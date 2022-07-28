@@ -41,6 +41,13 @@ Workshops/Conferences/Talks
   <li><strong> Deep Feature Learning to Model Brain Network Activities</strong>. Narges Norouzi, Michael Covarrubias , Michael Briden, Rafael Espericueta, 23rd International Conference on Information Fusion. </li>
 </ul>
 
+Research Projects
+------
+<ul>
+  <li><strong> Bioelectronic Intelligent Control of Wound Regeneration</strong>. Graduate Student Researcher.
+
+</ul>
+
 Other Projects
 ------
 <ul>
