@@ -9,17 +9,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Computer Science PhD student at UC Santa Cruz working under Narges Norouzi in the Applied Machine Learning Lab. I am currently researching self supervised deep learning methods for biomedical data, image recognition, and classification. Moreover, I enjoy exploring the theoretical aspects of artificial intelligence, machine learning, and data science.
+I am currently a Computer Science PhD student at UC Santa Cruz working under Narges Norouzi. I am currently researching self supervised deep learning methods for biomedical data, image recognition, and classification. Moreover, I enjoy exploring the theoretical aspects of artificial intelligence, machine learning, and data science.
 
 In Submission
 ------
 <ul>
+  <li><strong> Subject-Aware Explainable Contrastive Deep Fusion Learning for Anxiety Level Analysis</strong>. Michael Briden, Narges Norouzi.</li><em> accepted </em>
+  <li><strong> Fine-grained Cross-Layer Attention Framework for Wound Stage Classification</strong>. Keval Nagda, Michael Briden, Narges Norouzi.</li><em> accepted </em>
   <li><strong> Few-shot Classification of Healer vs. Non-Healer Wound Images</strong>.  Shubham Mahajan,
   Anirudh Potlapally, Michael Briden, Narges Norouzi.</li>
   <li><strong> Tell Me If It Heals: Future Wound Stage Prediction Through Latent Space Extrapol-
   ation</strong>. Anthony Liu, Saif Kausar, Michael Briden, Narges Norouzi.</li>
   <li><strong> Robust and Explainable Wound Stage Classification</strong>.Theophanis Fox, Michael Briden, Narges Norouzi.</li>
-  <li><strong> Subject-Aware Explainable Contrastive Deep Fusion Learning for Anxiety Level Analysis</strong>. Michael Briden, Narges Norouzi.</li>
+
 </ul>
 
 Publications
