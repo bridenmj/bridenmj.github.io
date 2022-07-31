@@ -56,13 +56,14 @@ Other Projects
 SpectroImaging and Deep Neural Networks</strong>.</li>
 </ul>
 
-Teaching
+Teaching Assistantships
 ------
 
 <ul>
-<li>Teaching Assistant for CSE 140: Artificial Intelligence, UC Santa Cruz</li>
-<li>Teaching Assistant for CSE 144: Applied Machine Learning, UC Santa Cruz</li>
-<li>Teaching Assistant for CSE 20: Beginning Programming in Python, UC Santa Cruz</li>
+<li>CSE 247: Master's Projects in AI, UC Santa Cruz</li>
+<li>CSE 140: Artificial Intelligence, UC Santa Cruz</li>
+<li>CSE 144: Applied Machine Learning, UC Santa Cruz</li>
+<li>CSE 20: Beginning Programming in Python, UC Santa Cruz</li>
 </ul>
 
 Resume
