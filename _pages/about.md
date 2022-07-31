@@ -60,10 +60,10 @@ Teaching Assistantships
 ------
 
 <ul>
-<li>CSE 247: Master's Projects in AI, UC Santa Cruz</li>
-<li>CSE 140: Artificial Intelligence, UC Santa Cruz</li>
-<li>CSE 144: Applied Machine Learning, UC Santa Cruz</li>
-<li>CSE 20: Beginning Programming in Python, UC Santa Cruz</li>
+<li>CSE 247: Master's Projects in AI</li>
+<li>CSE 140: Artificial Intelligence</li>
+<li>CSE 144: Applied Machine Learning</li>
+<li>CSE 20: Beginning Programming in Python</li>
 </ul>
 
 Resume
