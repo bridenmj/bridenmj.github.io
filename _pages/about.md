@@ -26,6 +26,7 @@ In Submission
 
 Publications
 ------
+
 <ul>
   <li><strong> WaveFusion Squeeze-and-Excitation: Towards an Accurate and Explainable Deep Learning Framework in Neuroscience</strong>. Michael Briden, Narges Norouzi.  <a href="https://ieeexplore.ieee.org/document/9630605">[paper]</a><a href="https://github.com/bridenmj/WaveFusion">[code]</a></li>
 </ul>
@@ -33,6 +34,7 @@ Publications
 
 Workshops/Conferences/Talks
 ------
+
 <ul>
   <li><strong> Towards Metacognition: Subject-Aware Contrastive Deep Fusion Learning for EEG Analysis</strong>. Michael Briden, Narges Norouzi, Neurovision Workshop at CVPR 2022. <a href="https://drive.google.com/file/d/1Nea9FWOAzDYEan3KPcKEUsy5JReY8eeR/view">[paper]</a><a href="https://github.com/bridenmj/Metacognition">[code]</a></li>
 
@@ -62,3 +64,9 @@ Teaching Assistantships
 <li>CSE 144: Applied Machine Learning, UC Santa Cruz</li>
 <li>CSE 20: Beginning Programming in Python, UC Santa Cruz</li>
 </ul>
+
+Resume
+------
+
+
+
