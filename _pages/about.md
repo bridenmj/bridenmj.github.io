@@ -58,6 +58,7 @@ SpectroImaging and Deep Neural Networks</strong>.</li>
 
 Teaching Assistantships
 ------
+
 <ul>
 <li>CSE 247: Master's Projects in AI, UC Santa Cruz</li>
 <li>CSE 140: Artificial Intelligence, UC Santa Cruz</li>
@@ -68,5 +69,6 @@ Teaching Assistantships
 Resume
 ------
 
-
-
+<ul>
+<li><a href="https://bridenmj.github.io/_pages/Mbriden_Resume.pdf" target="_blank">Resume</a></li>
+</ul>
