@@ -65,10 +65,3 @@ Teaching Assistantships
 <li>CSE 144: Applied Machine Learning, UC Santa Cruz</li>
 <li>CSE 20: Beginning Programming in Python, UC Santa Cruz</li>
 </ul>
-
-Resume
-------
-
-<ul>
-<li><a href="https://bridenmj.github.io/_pages/Mbriden_Resume.pdf" target="_blank">Resume</a></li>
-</ul>
