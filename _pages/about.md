@@ -19,7 +19,7 @@ In Submission
   <li><strong> Few-shot Classification of Healer vs. Non-Healer Wound Images</strong>.  Shubham Mahajan,
   Anirudh Potlapally, Michael Briden, Narges Norouzi.</li>
   <li><strong> Tell Me If It Heals: Future Wound Stage Prediction Through Latent Space Extrapol-
-  ation</strong>. Anthony Liu, Saif Kausar, Michael Briden, Narges Norouzi.</li>
+  ation</strong>. Anthony Liu, Saif Kausar, Michael Briden, Amir Mazaheri, Narges Norouzi.</li>
   <li><strong> Robust and Explainable Wound Stage Classification</strong>.Theophanis Fox, Michael Briden, Narges Norouzi.</li>
 
 </ul>
