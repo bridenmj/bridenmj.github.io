@@ -11,24 +11,15 @@ redirect_from:
 
 I am a Computer Science PhD student at UC Santa Cruz working under Narges Norouzi. I am researching self-supervised deep learning methods for biomedical data, including image recognition and signal processing. Moreover, I enjoy exploring the theoretical aspects of artificial intelligence, machine learning, and data science. I hold a Bachelor's degree in Pure Mathematics from Pacific Lutheran University, located in beautiful Washington state.
 
-In Submission
-------
-<ul>
-  <li><strong> Subject-Aware Explainable Contrastive Deep Fusion Learning for Anxiety Level Analysis</strong>. Michael Briden, Narges Norouzi.<em> accepted </em> </li>
-  <li><strong> Fine-grained Cross-Layer Attention Framework for Wound Stage Classification</strong>. Keval Nagda, Michael Briden, Narges Norouzi.<em> accepted </em> </li>
-  <li><strong> Few-shot Classification of Healer vs. Non-Healer Wound Images</strong>.  Shubham Mahajan,
-  Anirudh Potlapally, Michael Briden, Narges Norouzi.</li>
-  <li><strong> Tell Me If It Heals: Future Wound Stage Prediction Through Latent Space Extrapol-
-  ation</strong>. Anthony Liu, Saif Kausar, Michael Briden, Amir Mazaheri, Narges Norouzi.</li>
-  <li><strong> Robust and Explainable Wound Stage Classification</strong>.Theophanis Fox, Michael Briden, Narges Norouzi.</li>
 
-</ul>
-
-Publications
+Selected Publications
 ------
 
 <ul>
-  <li><strong> WaveFusion Squeeze-and-Excitation: Towards an Accurate and Explainable Deep Learning Framework in Neuroscience</strong>. Michael Briden, Narges Norouzi.  <a href="https://ieeexplore.ieee.org/document/9630605">[paper]</a><a href="https://github.com/bridenmj/WaveFusion">[code]</a></li>
+  <li><strong> Toward metacognition: subject-aware contrastive deep fusion representation learning for EEG analysis</strong>. Michael Briden, Narges Norouzi. </li>
+  <li><strong> Uniform Selection And Representation Matching: A Framework For Classifying Wound Healing Stage</strong>. Michael Briden, Narges Norouzi. </li>
+  <li><strong> Subject-Aware Explainable Contrastive Deep Fusion Learning for Anxiety Level Analysis</strong>. Michael Briden, Narges Norouzi. </li>
+  <li><strong> WaveFusion Squeeze-and-Excitation: Towards an Accurate and Explainable Deep Learning Framework in Neuroscience</strong>. Michael Briden, Narges Norouzi. </li>
 </ul>
 
 
@@ -47,14 +38,6 @@ Research Positions
   <li><strong> Bioelectronic Intelligent Control of Wound Regeneration</strong>. Graduate Student Researcher.</li>
 </ul>
 
-Other Projects
-------
-<ul>
-  <li><strong> Topological Data Analysis in Information Space for Confidence Analysis with Electroencephalogram Data & Horizontal Visibility</strong>. <a href="https://drive.google.com/file/d/1TAN4PMkaPSTuHHLptumIPsRISFc-1Pan/view?usp=sharing">[paper]</a></li>
-
-  <li><strong> Classification of Electroencephalogram Data using
-SpectroImaging and Deep Neural Networks</strong>.</li>
-</ul>
 
 Teaching Assistantships
 ------
@@ -64,11 +47,4 @@ Teaching Assistantships
 <li>CSE 140: Artificial Intelligence</li>
 <li>CSE 144: Applied Machine Learning</li>
 <li>CSE 20: Beginning Programming in Python</li>
-</ul>
-
-Resume
-------
-
-<ul>
-<li><a href="https://bridenmj.github.io/_pages/Mbriden_Resume.pdf" target="_blank">Resume</a></li>
 </ul>
