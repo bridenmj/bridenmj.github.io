@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Briden"
 title_separator          : "-"
 name                     : &name "Michael Briden"
-description              : &description "Michael Briden's Website"
+description              : &description "Trustworthy and uncertainty-aware AI for medical forecasting, multimodal learning, and clinical data."
 url                      : https://bridenmj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bridenmj/bridenmj.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Michael Briden"
   avatar           : "profile.jpg"
-  bio              : "PhD Student, UC Santa Cruz"
+  bio              : "Applied ML Researcher"
   location         : "Santa Cruz, CA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "mbriden@ucsc.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "academicpages"
+  github           : "bridenmj"
   google_plus      :
   keybase          :
   instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "michael-briden-aa954962"
+  linkedin         : "michaelbriden"
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

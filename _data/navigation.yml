@@ -1,22 +1,12 @@
-# main links links
-#main:
-#  - title: "Publications"
-#    url: /publications/
+main:
+  - title: "Projects"
+    url: /portfolio/
 
-#  - title: "Talks"
-#    url: /talks/
+  - title: "Research"
+    url: /publications/
 
-#  - title: "Teaching"
-#    url: /teaching/
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Résumé"
+    url: /Michael_Briden_Resume.docx
+
+  - title: "GitHub ↗"
+    url: https://github.com/bridenmj
