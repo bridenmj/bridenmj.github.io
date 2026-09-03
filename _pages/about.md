@@ -11,9 +11,9 @@ redirect_from:
 
 <section class="home-hero" aria-labelledby="intro-title">
   <div class="home-hero__copy">
-    <p class="eyebrow">Trustworthy AI · Medical forecasting</p>
-    <h1 id="intro-title">I build reliable AI for noisy, limited clinical data.</h1>
-    <p class="home-hero__lede">My research combines generative modeling, survival analysis, and efficient fine-tuning to create interpretable, uncertainty-aware systems for medical forecasting.</p>
+    <p class="eyebrow">Machine learning · Biomedical research</p>
+    <h1 id="intro-title">Machine learning for medical forecasting.</h1>
+    <p class="home-hero__lede">I study how longitudinal and multimodal clinical data can support better predictions of wound healing, with work spanning survival analysis, generative modeling, and efficient fine-tuning.</p>
     <div class="home-actions">
       <a class="action action--primary" href="#selected-work">Explore selected work</a>
       <a class="action" href="/Michael_Briden_Resume.docx">View résumé</a>
