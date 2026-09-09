@@ -89,7 +89,7 @@ export const DATA = {
   },
   work: [
     {
-      company: "Tell Me If It Heals",
+      company: "Longitudinal Wound Progression Modeling Under Sparse Sampling",
       href: "#projects",
       badges: ["Ongoing"],
       location: "Santa Cruz, CA",
@@ -154,7 +154,7 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Tell Me If It Heals",
+      title: "Longitudinal Wound Progression Modeling Under Sparse Sampling",
       href: "https://github.com/bridenmj/wound-forecasting",
       dates: "Submitted 2026",
       active: true,
