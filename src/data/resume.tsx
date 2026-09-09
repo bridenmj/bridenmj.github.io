@@ -186,7 +186,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/projects/wound-dynamics-draft2-slide4.png",
+      image: "/projects/wound-dynamics-fgsea-slide4.png",
       video: "",
     },
     {
