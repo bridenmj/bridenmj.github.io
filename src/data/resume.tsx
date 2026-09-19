@@ -177,7 +177,7 @@ export const DATA = {
       dates: "Selected Lightning Talk & Poster · Physics of Life Symposium 2026 · CZ Biohub",
       active: true,
       description:
-        "Used non-negative matrix factorization and gene-set annotation to identify latent biological programs in 144 porcine wound RNA-seq samples. A rank-7 decomposition yielded four retained healing-specific metagenes spanning inflammation, tissue development, skin morphogenesis, and barrier formation over 21 days.",
+        "Analyzed 150 porcine RNA-seq profiles: 144 wound-region profiles plus six Day-0 excised-skin references, all included in the joint non-negative matrix factorization. A rank-7 decomposition yielded four retained healing-specific metagenes spanning inflammation, tissue development, skin morphogenesis, and barrier formation over 21 days.",
       technologies: ["RNA-seq", "NMF", "Gene-set analysis", "PCA", "UMAP"],
       links: [
         {
