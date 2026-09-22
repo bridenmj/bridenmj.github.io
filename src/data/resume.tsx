@@ -8,9 +8,9 @@ export const DATA = {
   location: "Santa Cruz, CA",
   locationLink: "https://www.google.com/maps/place/Santa+Cruz,+CA",
   description:
-    "Machine learning researcher focused on medical forecasting, multimodal clinical data, and uncertainty-aware models.",
+    "Machine learning researcher focused on generative modeling, multimodal learning, and forecasting under uncertainty, with applications in medical AI.",
   summary:
-    "I develop trustworthy machine learning methods for noisy and limited clinical data. My work combines generative modeling, survival analysis, efficient fine-tuning, and representation learning, with applications in [wound healing](#projects) and EEG. I completed my Ph.D. in Computer Science at UC Santa Cruz in 2025.",
+    "I develop machine learning methods for complex, noisy, and limited data. My work combines generative modeling, representation learning, parameter-efficient adaptation of foundation models, and statistical learning, with applications spanning biomedical imaging, clinical data, transcriptomics, and EEG. I completed my Ph.D. in Computer Science at UC Santa Cruz in 2025.",
   avatarUrl: "/michael-briden.jpg",
   ogImage: "/og_image.png",
   sections: {
