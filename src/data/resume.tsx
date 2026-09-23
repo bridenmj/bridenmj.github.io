@@ -155,13 +155,18 @@ export const DATA = {
   projects: [
     {
       title: "Longitudinal Wound Progression Modeling Under Sparse Sampling",
-      href: "https://github.com/bridenmj/wound-forecasting",
-      dates: "Submitted 2026",
+      href: "https://preprints.jmir.org/preprint/111274",
+      dates: "JMIR Preprints · 2026",
       active: true,
       description:
         "A comparative study of LLaMA-Adapter, River CFM, and DyneODE for forecasting 21-day wound-image trajectories from sparse early observations. LLaMA-Adapter produced the most perceptually realistic progression (KID 0.123), while DyneODE achieved the highest PSNR and SSIM but often generated oversmoothed forecasts.",
       technologies: ["LLaMA-Adapter", "River CFM", "DyneODE", "Longitudinal Forecasting", "Medical Imaging"],
       links: [
+        {
+          type: "Preprint",
+          href: "https://doi.org/10.2196/preprints.111274",
+          icon: <Icons.globe className="size-3" />,
+        },
         {
           type: "Code",
           href: "https://github.com/bridenmj/wound-forecasting",
